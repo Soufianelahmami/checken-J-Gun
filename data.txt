@@ -47,9 +47,9 @@
 
   "guides": [
 	{
-	 "image": "xxxx",
-	 "title": "00",
-	 "text": "xxxx",
+	 "image": "https://iili.io/JdzIgdN.webp",
+	 "title": "checken J Gun",
+	 "text": "Imagine a high-tech cannon that shoots out specially trained super-chickens to combat various environmental issues. These genetically modified chickens could be equipped with sensors to monitor pollution, clean up trash, or even plant trees. The Cluckinator could be a symbol of eco-friendly innovation",
 	 "text_two": "xxxx",
 
 	 "isLocked": false,
@@ -57,9 +57,9 @@
 
 	},
 	{
-	 "image": "xxxx",
-	 "title": "11",
-	 "text": "xxxx",
+	 "image": "https://iili.io/JdzISgp.webp",
+	 "title": "checken J Gun",
+	 "text": "Picture a world where chickens are not just farm animals but also living batteries. Engineers have developed a way to harness the energy produced by chickens as they go about their daily activities. The "Chicken Gun" could be a device that deploys these power-producing poultry to areas lacking electricity.",
 	 "text_two": "xxxx",
 
 	 "isLocked": true,
@@ -67,9 +67,9 @@
 	 
 	},
 	{
-	 "image": "xxxx",
-	 "title": "22",
-	 "text": "xxxx",
+	 "image": "https://iili.io/JdzIeLJ.webp",
+	 "title": "checken J Gun",
+	 "text": "In a quirky alternate reality, a "Chicken Gun" could be a device that launches specially bred weather-controlling chickens into the atmosphere. Each chicken could have unique abilities—some for rain, some for sunshine, and others for creating rainbows. It's a playful take on harnessing the unpredictable nature of weather.",
 	 "text_two": "xxxx",
 
 	 "isLocked": false,
@@ -77,9 +77,9 @@
 
 	},
 	{
-	"image": "xxxx",
-	 "title": "33",
-	 "text": "xxxx",
+	"image": "https://iili.io/JdzIvqv.webp",
+	 "title": "checken J Gun",
+	 "text": "In a fictional world facing alien invasions, a brilliant scientist creates the ultimate defense system—the Chicken Gun. This contraption launches highly trained battle chickens to fend off extraterrestrial threats. These chickens could have advanced intelligence and be equipped with gadgets to protect the planet.",
 	 "text_two": "xxxx",
 
 	 "isLocked": false,
@@ -87,9 +87,9 @@
 
 	},
 	{
-	"image": "xxxx",
-	 "title": "44",
-	 "text": "xxxx",
+	"image": "https://iili.io/JdzIOXa.webp",
+	 "title": "checken J Gun",
+	 "text": "In a whimsical universe, the Chicken Gun could be a tool used to launch chickens into the spotlight. These chickens are not just any poultry; they are natural performers, showcasing their talents in music, dance, and theater. The "Chick-flix" industry becomes a sensation, with Chicken Guns as the gateway to stardom for feathered entertainers.",
 	 "text_two": "xxxx",
 
 	 "isLocked": false,
@@ -97,9 +97,9 @@
 
 	},
 	{
-	"image": "xxxx",
-	 "title": "55",
-	 "text": "xxxx",
+	"image": "https://iili.io/JdzI81R.webp",
+	 "title": "checken J Gun",
+	 "text": "Remember, these ideas are purely imaginative and meant for creative inspiration. If you had a specific concept in mind or if there's a different term you were referring to, feel free to provide more details for a more accurate response",
 	 "text_two": "xxxx",
 
 	 "isLocked": false,
